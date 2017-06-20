@@ -1,3 +1,3 @@
 test "$BASENAME"
-    -z ""
+    -z (which pacaur)
 end
